@@ -8,11 +8,11 @@
 # FEATURES AND INFORMATIONS 
 ✍️ INTRODUCTION:
 
- · This bot increases the investors and volume of your Solana token.
+ · This bot increases the holders and volume of your Solana token.
 
 👀 WHAT IS IT FOR?:
 
-·Since your number of investors and volume will increase, it will help you get into both listing and trending in Coinmarketcap, Dexscreener etc. websites.
+·Since your number of golders and volume will increase, it will help you get into both listing and trending in Coinmarketcap, Dexscreener etc. websites.
 
 ·Lifetime license of source code and good price.
 
@@ -26,7 +26,7 @@
 
 ·Creating too many wallets.
 
-·Allows you to attract the attention of other holders.
+·Allows you to attract the attention of other holders. (trust in the token increases)
 
 ·It gives you the opportunity to sell what you buy as you wish. (all you have to spend is the fee)
 
