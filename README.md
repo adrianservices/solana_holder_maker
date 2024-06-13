@@ -12,7 +12,7 @@
 
 👀 WHAT IS IT FOR?:
 
-·Since your number of golders and volume will increase, it will help you get into both listing and trending in Coinmarketcap, Dexscreener etc. websites.
+·Since your number of holders and volume will increase, it will help you get into both listing and trending in Coinmarketcap, Dexscreener etc. websites.
 
 ·Lifetime license of source code and good price.
 
