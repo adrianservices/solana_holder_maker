@@ -10,12 +10,12 @@
  · This bot increases the investors and volume of your Solana token.
 
 👀 WHAT IS IT FOR?:
-
 ·Since your number of investors and volume will increase, it will help you get into both listing and trending in Coinmarketcap, Dexscreener etc. websites.
 
 ·Lifetime license of source code and good price.
 
 🌟 WHAT IS DOING? (features):
+
 ·It creates private keys for you and lets you manage them automatically. 
 
 ·Being able to adjust the amount you want to buy and sell makes the volume of your token seem natural.
